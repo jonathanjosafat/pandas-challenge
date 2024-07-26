@@ -1,1 +1,2 @@
 # pandas-challenge
+In this challenge, we analyzed the district-wide standardized test results with the provided student and school data. The data was analyzed to provide insights on trends in school and student performance.
